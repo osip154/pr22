@@ -10,12 +10,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.PR22_Mirzakamilov_PR23103">
+        android:theme="@style/Theme.Pr22_Osipov">
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.PR22_Mirzakamilov_PR23103">
+            android:theme="@style/Theme.Pr22_Osipov">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
